@@ -1,0 +1,23 @@
+body,p,ul,li,dl,dt,dd,ol,h1,h2,h3,h4,h5,h6,button{
+			padding:0;
+			margin:0;
+			font: 12px/150% arial,"Hiragino Sans GB",SimSun,tahoma,sans-serif;
+		}
+		body{
+			background-color:#fff;
+		}
+		li{
+			list-style:none;
+		}
+		img{
+			vertical-align:top;
+		}
+		a{
+			text-decoration:none;
+			color:#666;
+		}
+		.clearFloat:after{
+			content:"";
+			clear:both;
+			display:block;
+		}

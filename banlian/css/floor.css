@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding: 0;
+}
+li{
+	list-style:none;
+}
+img{
+	vertical-align:middle;
+}
+.floor{
+	width: 1200px;
+    margin: 0 auto;
+}
+.f-title{
+	width:1200px;
+	margin: 8px 4px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 24px;
+    color: #333;
+	background: #fff url(../img/guess_bg.jpg) repeat-x 0 center;
+}
+.guess{
+	width: 255px;
+    padding-left: 65px;
+    height: 30px;
+   	margin:0 436px;
+   	    background: #fff url(../img/guess_love.jpg) no-repeat 30px center;
+}
+.guess span{
+	color:#999;
+	font-size:17px;
+	margin-left: 5px;
+	line-height: 30px;
+}
+.main_login{
+	text-align: right;
+    margin-bottom: 14px;
+    font-size: 14px;
+    font-family: 微软雅黑;
+    color: rgb(153, 153, 153);
+    padding-right: 5px;
+}
+.main_login span{
+	color: #ff6f6f;
+	cursor:pointer:;
+}
+.likes{
+	height: 340px;
+    margin-bottom: 10px;
+}
+.likes li{
+	float: left;
+    height: 340px;
+    margin: 0 5px;
+    position: relative;
+    width: 230px;
+    background: #fff;
+}
+.shop-show{
+	height: 338px;
+    width: 228px;
+    border: 1px solid #e4e4e4;
+    background: #fff;
+    transition: all 1s;
+}
+.shop-img{
+	height: 220px;
+    width: 220px;
+    padding: 4px;
+    cursor:pointer;
+}
+.shop-name {
+    padding: 0 11px;
+    margin-top: 5px;
+    line-height: 21px;
+    height: 42px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.shop-name span {
+    font-size: 14px;
+    cursor:pointer;
+}
+.shop-name span:hover{
+	border-bottom:1px solid black;
+}
+.shop-money{
+	padding: 0 11px;
+    height: 26px;
+    margin-top: 3px;
+    position: relative;
+}
+.money-fl{
+	color: #ff6f6f;
+    font-size: 12px;
+    line-height: 26px;
+}
+.money-fl a{
+	float: right;
+    padding: 0 10px 0 25px;
+    height: 20px;
+    margin-top: 3px;
+    line-height: 18px;
+    background: url(../img/guess_ic1.jpg) no-repeat 7px 4px;
+    border: 1px solid #eee;
+    color: #999;
+    border-radius: 11px;
+    cursor:pointer;
+}
+.money-fl a:hover{
+	color:tomato;
+	background-position:7px -27px;
+	cursor:pointer;
+}

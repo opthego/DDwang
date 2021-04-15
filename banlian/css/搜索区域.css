@@ -1,0 +1,244 @@
+.sousuo{
+	width:100%;
+	border-bottom:2px solid #000;
+}
+.sousuo1{
+	width:1190px;
+	margin:0 auto;
+}
+.sousuo2{
+	margin-top:18px;
+}
+.sousuo2 .logo{
+	width:190px;
+	float:left;
+}
+.sousuo2 .logo1{
+	float:left;
+	margin-left:25px;
+}
+.sousuo3{
+	float:left;
+	margin-left:45px;
+	margin-top:7px;
+	padding-left:5px;
+}
+.sousuo3 form{
+	width:503px;
+	height:35px;
+	padding-left:10px;
+	border:2px solid #ff3d3d;
+	border-radius:0 2px 2px 0;
+}
+.sousuo3 form .input{
+	border:0;
+	width:420px;
+	height:32px;
+	outline:none;
+	float:left;
+}
+.sousuo3 form button{
+	width: 83px;
+	height:35px;
+	border:0;
+	float:left;
+	outline:none;
+	background:#ff3d3d;
+	color:#fff;
+	font-size:16px;
+	font-weight:600;
+}
+.sousuo3 ul li{
+	float:left;
+	line-height:14px;
+	margin:0 11px 0 5px;
+	margin-top:3px;
+}
+.sousuo3 ul span{
+	float:left;
+	width:1px;
+	height:12px;
+	background:#ccc;
+	margin-top:4px;
+}
+.sousuo3 ul li a{
+	color:#999;
+}
+.sousuo3 ul li a:hover{
+	color:#ff3d3d;
+	text-decoration:underline;
+}
+.afb{
+	float:left;
+	width:101px;
+	height:33px;
+	border:1px solid #d7d7d7;
+	border-radius:1px;
+	margin:7px 0 0 54px;
+	padding:0 7px 0 12px;
+	line-height:33px;
+}
+.afb i{
+	float:right;
+	height:9px;
+	width:6px;
+	background:url(../img/5.png) no-repeat 0 0;
+	margin-top:12px;
+}
+.afb:hover{
+	border:1px solid #ff3d3d;
+}
+.afb:hover i{
+	background:url(../img/5.png) no-repeat 0 -71px;
+}
+.afb:hover a{
+	color:#ff3d3d;
+}
+.shangpin{
+	margin-top:19px;
+}
+.shangpin1{
+	float:left;
+	width:190px;
+	height:35px;
+	line-height:35px;
+	background:#151515;
+	color:#fff;
+	font-weight:bold;
+	position:relative;
+}
+.shangpin1>i{
+	float:left;
+	width:14px;
+	height:12px;
+	background:url(../img/6.png) no-repeat 0 -101px;
+	margin:11px 25px 0 13px;
+}
+.shangpin>ul>li{
+	float:left;
+	line-height:35px;
+	padding:0 18px;
+	font-size:14px;
+}
+.shangpin ul li a{
+	color:#333;
+	font-weight:bold;
+}
+.shangpin1 .caidan{
+	position:absolute;
+	top:37px;
+	left:0;
+	width:190px;
+	z-index: 1;
+	/*display: none;*/
+}
+.shangpin1 .caidan>ul{
+	padding-top:17px;
+	padding-bottom:22px;
+	background:rgba(78,78,79,1);
+
+}
+.shangpin1 .caidan>ul>li{
+	height:28px;
+	line-height:28px;
+}
+.shangpin1 .caidan>ul>li a{
+	color:#fff;
+}
+.shangpin1 .caidan>ul>li i{
+	float:left;
+	width:16px;
+	height:16px;
+	margin:5px 10px 0 16px;
+	background:url(../img/7.png) no-repeat 0 0;
+}
+.shangpin1 .caidan ul li .i1{
+	background:url(../img/7.png) no-repeat 0 -31px;
+}
+.shangpin1 .caidan ul li .i2{
+	background:url(../img/7.png) no-repeat 0 -60px;
+}
+.shangpin1 .caidan ul li .i3{
+	background:url(../img/7.png) no-repeat 0 -91px;
+}
+.shangpin1 .caidan ul li .i4{
+	background:url(../img/7.png) no-repeat 0 -120px;
+}
+.shangpin1 .caidan ul li .i5{
+	background:url(../img/7.png) no-repeat 0 -151px;
+}
+.shangpin1 .caidan ul li .i6{
+	background:url(../img/7.png) no-repeat 0 -180px;
+}
+.shangpin1 .caidan ul li .i7{
+	background:url(../img/7.png) no-repeat 0 -210px;
+}
+.shangpin1 .caidan ul li .i8{
+	background:url(../img/7.png) no-repeat 0 -240px;
+}
+.shangpin1 .caidan ul li .i9{
+	background:url(../img/7.png) no-repeat 0 -270px;
+}
+.shangpin1 .caidan ul li .i10{
+	background:url(../img/7.png) no-repeat 0 -300px;
+}
+.shangpin1 .caidan ul li .i11{
+	background:url(../img/7.png) no-repeat 0 -332px;
+}
+.shangpin1 .caidan ul li .i12{
+	background:url(../img/7.png) no-repeat 0 -360px;
+}
+.shangpin1 .caidan ul li .i13{
+	background:url(../img/7.png) no-repeat 0 -391px;
+}
+.caidan .content{
+	position:absolute;
+	top:0;
+	left:190px;
+	display:none;
+	z-index:999;
+}
+.caidan .content1{
+	width:965px;
+	height:413px;
+	padding:17px 8px 0 27px;
+	border-right:1px solid #999;
+	border-bottom:1px solid #999;
+	color:#000;
+	background:#fff;
+}
+.caidan .content1 .contentzuo{
+	float:left;
+	width:705px;
+}
+.caidan .content1 .contentyou{
+	float:right;
+	width:240px;
+}
+.caidan .content1 .contentyou .img1{
+	display:block;
+	margin-bottom:4px;
+}
+.caidan .content1 h4{
+	font-weight:bold;
+	float:left;
+	margin-right:24px;
+	line-height:24px;
+}
+.caidan .content2 ul{
+	float:left;
+	width:620px;
+}
+.caidan .content2 ul li{
+	float:left;
+	margin-right:18px;
+	line-height:24px;
+}
+.caidan .content2 ul li a{
+	font-weight:normal;
+}
+.caidan p{
+	border:1px dashed #999;
+	width:620px;
+	margin:8px 0 5px 84px;
+}

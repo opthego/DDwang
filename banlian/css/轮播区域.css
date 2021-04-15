@@ -1,0 +1,198 @@
+.lunbo{
+	width:100%;
+	position:relative;
+}
+.lunbo .neirong{
+	width:1190px;
+	height:430px;
+	margin:0 auto;
+}
+.lunbo .neirong .caidan{
+	position:relative;
+	width:190px;
+	float:left;
+}
+.lunbo .neirong .caidan>ul{
+	padding-top:17px;
+	padding-bottom:22px;
+	background:rgba(78,78,79,0.2);
+
+}
+.lunbo .neirong .caidan>ul>li{
+	height:28px;
+	line-height:28px;
+}
+.lunbo .neirong .caidan>ul>li a{
+	color:#fff;
+}
+.lunbo .neirong .caidan>ul>li i{
+	float:left;
+	width:16px;
+	height:16px;
+	margin:5px 10px 0 16px;
+	background:url(../img/7.png) no-repeat 0 0;
+}
+.lunbo .neirong .caidan ul li .i1{
+	background:url(../img/7.png) no-repeat 0 -31px;
+}
+.lunbo .neirong .caidan ul li .i2{
+	background:url(../img/7.png) no-repeat 0 -60px;
+}
+.lunbo .neirong .caidan ul li .i3{
+	background:url(../img/7.png) no-repeat 0 -91px;
+}
+.lunbo .neirong .caidan ul li .i4{
+	background:url(../img/7.png) no-repeat 0 -120px;
+}
+.lunbo .neirong .caidan ul li .i5{
+	background:url(../img/7.png) no-repeat 0 -151px;
+}
+.lunbo .neirong .caidan ul li .i6{
+	background:url(../img/7.png) no-repeat 0 -180px;
+}
+.lunbo .neirong .caidan ul li .i7{
+	background:url(../img/7.png) no-repeat 0 -210px;
+}
+.lunbo .neirong .caidan ul li .i8{
+	background:url(../img/7.png) no-repeat 0 -240px;
+}
+.lunbo .neirong .caidan ul li .i9{
+	background:url(../img/7.png) no-repeat 0 -270px;
+}
+.lunbo .neirong .caidan ul li .i10{
+	background:url(../img/7.png) no-repeat 0 -300px;
+}
+.lunbo .neirong.caidan ul li .i11{
+	background:url(../img/7.png) no-repeat 0 -332px;
+}
+.lunbo .neirong .caidan ul li .i12{
+	background:url(../img/7.png) no-repeat 0 -360px;
+}
+.lunbo .neirong .caidan ul li .i13{
+	background:url(../img/7.png) no-repeat 0 -391px;
+}
+.caidan .content{
+	position:absolute;
+	top:0;
+	left:190px;
+	display:none;	
+	z-index:999;
+}
+.caidan .content1{
+	width:965px;
+	height:413px;
+	padding:17px 8px 0 27px;
+	border-right:1px solid #999;
+	border-bottom:1px solid #999;
+	color:#000;
+	background:#fff;
+}
+.caidan .content1 .contentzuo{
+	float:left;
+	width:705px;
+}
+.caidan .content1 .contentyou{
+	float:right;
+	width:240px;
+}
+.caidan .content1 .contentyou .img1{
+	display:block;
+	margin-bottom:4px;
+}
+.caidan .content1 h4{
+	font-weight:bold;
+	float:left;
+	margin-right:24px;
+	line-height:24px;
+}
+.caidan .content2 ul{
+	float:left;
+	width:620px;
+}
+.caidan .content2 ul li{
+	float:left;
+	margin-right:18px;
+	line-height:24px;
+}
+.caidan .content2 ul li a{
+	font-weight:normal;
+}
+.caidan p{
+	border:1px dashed #999;
+	width:620px;
+	margin:8px 0 5px 84px;
+}
+.yanse{
+	position:absolute;
+	width:100%;
+	height:430px;
+	top:0;
+	left:0;
+	opacity:0;
+	z-index:-1;
+	transition:0.5s;
+}
+.yanse1{
+    background: rgb(131, 173, 159);
+    opacity:1;
+}
+.yanse2{
+	 background: rgb(168, 22, 22);
+}
+.yanse3{
+	 background: rgb(255, 221, 213);
+}
+.yanse4{
+	 background: rgb(128,29,23);
+}
+.lunbotu{
+	float:left;
+	height:430px;
+	width:785px;
+	position:relative;
+}
+.lunbotu a{
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:0;
+	transition:0.5s;
+}
+.lunbotu a:nth-child(1){
+	opacity:1;
+}
+.lunbotu p{
+	position:absolute;
+	top:50%;
+	width:30px;
+	height:60px;
+	margin-top:-30px;
+	background:url(../img/8.png) no-repeat 0 0;
+	display:none;
+}
+.lunbotu p:hover{
+	background:url(../img/8.png) no-repeat 0 -60px;
+}
+.lunbotu .you1:hover{
+	right:0;
+	background-position:-30px -60px;
+}
+.lunbotu .you1{
+	right:0;
+	background-position:-30px 0;
+}
+.anniu{
+	position:absolute;
+	bottom:43px;
+	left:50%;
+	margin-left:-50px;
+}
+.anniu span{
+	width:8px;
+	height:8px;
+	border:1px solid #cecece;
+	float:left;
+	margin:0 7.5px;
+	border-radius:50%;
+	background:#fff;
+}
